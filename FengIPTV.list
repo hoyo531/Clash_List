@@ -18,7 +18,7 @@ DOMAIN-SUFFIX,freetv.fun
 DOMAIN-SUFFIX,iill.top
 DOMAIN-SUFFIX,edgeware.tvb.com
 DOMAIN-SUFFIX,php.jdshipin.com,no-resolve
-DOMAIN-SUFFIX,.xyz,no-resolve
+DOMAIN-KEYWORD,xyz,no-resolve
 DOMAIN-KEYWORD,smt
 DOMAIN-KEYWORD,mytv
 DOMAIN-KEYWORD,aktv
